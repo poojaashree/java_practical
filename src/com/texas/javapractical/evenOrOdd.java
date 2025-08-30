@@ -1,4 +1,4 @@
-package com.texas.javapratical;
+package com.texas.javapractical;
 
 import java.util.Scanner;
 
