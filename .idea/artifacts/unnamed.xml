@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jpractical" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.activation-1.2.0" />
+          <element id="library" level="project" name="javax.mail-1.6.2" />
+          <element id="file-copy" path="$PROJECT_DIR$/libs/postgresql-42.7.7.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
